@@ -1,0 +1,6 @@
+c:\users\meti\documents\visual studio 2012\Projects\PrioriyQueue\PrioriyQueue\bin\Debug\PrioriyQueue.exe.config
+C:\Users\Meti\documents\visual studio 2012\Projects\PrioriyQueue\PrioriyQueue\bin\Debug\PrioriyQueue.exe
+C:\Users\Meti\documents\visual studio 2012\Projects\PrioriyQueue\PrioriyQueue\bin\Debug\PrioriyQueue.pdb
+C:\Users\Meti\documents\visual studio 2012\Projects\PrioriyQueue\PrioriyQueue\obj\Debug\PrioriyQueue.csprojResolveAssemblyReference.cache
+C:\Users\Meti\documents\visual studio 2012\Projects\PrioriyQueue\PrioriyQueue\obj\Debug\PrioriyQueue.exe
+C:\Users\Meti\documents\visual studio 2012\Projects\PrioriyQueue\PrioriyQueue\obj\Debug\PrioriyQueue.pdb
