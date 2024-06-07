@@ -216,12 +216,8 @@ namespace PrioriyQueue
                             break;
                     }
                 }
-                else if(temp.next.skillnum > 6)
+                else if(temp.next.skillnum >= 6)
                     Console.WriteLine("Can't upgrade the skill more than that");
-                else if (temp.next.next == null)
-                {
-
-                }
             }
             else if (target == 1)
             {
