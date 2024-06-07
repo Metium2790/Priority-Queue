@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -177,7 +177,7 @@ namespace PrioriyQueue
             {
                 for (int i = 0; i < target - 2; i++)
                     temp = temp.next;
-                if (temp.next != null && temp.skillnum < 6)
+                if (temp.next != null && temp.next.skillnum < 6)
                 {
                     PersonNode temp2 = temp.next;
                     temp.next = temp.next.next;
@@ -216,9 +216,9 @@ namespace PrioriyQueue
                             break;
                     }
                 }
-                else if(temp.skillnum > 6)
+                else if(temp.next.skillnum > 6)
                     Console.WriteLine("Can't upgrade the skill more than that");
-                else if (temp.next == null)
+                else if (temp.next.next == null)
                 {
 
                 }
@@ -286,3 +286,4 @@ namespace PrioriyQueue
         }
     }
 }
+//Coded by MohammadMahdi Mohammadi(Metium)
